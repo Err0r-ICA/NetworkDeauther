@@ -19,7 +19,7 @@
 <br/>
 ***NetworkDeauther*** is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
 
-![Screenshot from 2020-01-29 21-11-48](https://i.pinimg.com/originals/8a/87/19/8a87192e7cba6935a4e0015b16f6783a.png)
+![Screenshot]()
 
 
 ##### Dependencies
