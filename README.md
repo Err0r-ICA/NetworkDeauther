@@ -1,5 +1,4 @@
 # NetworkDeauther
-
 </p>
 
 <h1 align="center"NetworkDeauther - Italia Cyber Army</h1>
@@ -10,8 +9,13 @@
 
 ### MAINTAINERS
 
-* **Contacts**
+**Contacts**
 
+* [TELEGRAM](https://t.me/termuxxhacking)
+
+* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+
+* [INSTAGRAM](https://instagram.com/termux_hacking)
 
 # WifiJammer
 [![License](https://img.shields.io/badge/License-GPL-red.svg)](https://github.com/aryanrtm/KawaiiDeauther/blob/master/LICENSE)  [![Version](https://img.shields.io/badge/Release-1.2-blue.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()  [![asciinema](https://img.shields.io/badge/asciinema-Demo-red.svg)](https://asciinema.org/a/294970)
