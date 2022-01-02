@@ -1,11 +1,5 @@
 # NetworkDeauther
-</p>
-
-<h1> align="center"NetworkDeauther - HackBoyz Team</h1>
-
-<p align="center">
-
-</p>
+</p align="center">NetworkDeauther - HackBoyz Team</p>
 
 ### MAINTAINERS
 
