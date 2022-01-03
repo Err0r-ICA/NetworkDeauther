@@ -1,7 +1,4 @@
-# NetworkDeauther
-</p align="center">NetworkDeauther - HackBoyz Team</p>
-
-### MAINTAINERS
+# NetworkDeauther 💣
 
 **Contacts**
 
