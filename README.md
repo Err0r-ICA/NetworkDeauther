@@ -56,11 +56,8 @@
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/DefacErr)
 
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-
-* [INSTAGRAM](https://instagram.com/termux_hacking)
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
